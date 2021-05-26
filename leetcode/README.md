@@ -1,5 +1,5 @@
 # LeetCode
 
 
-* [0001.Two Sum](/leetcode/0001.Two Sum.md)
-* [0002.Add Two Numbers](/leetcode/0002.Add Two Numbers.md)
+* [0001.Two Sum](/leetcode/0001.%20Two%20Sum.md)
+* [0002.Add Two Numbers](/leetcode/0002.%20Add%20Two%20Numbers.md)
