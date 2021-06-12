@@ -2,4 +2,4 @@
 
 * [Introduction](README.md)
 
-* [LeetCode](/leetcode/README.md)
+* [LeetCode](/docs/leetcode/README.md)
