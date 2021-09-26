@@ -20,13 +20,16 @@
     window.$docsify = {
         name: 'LeetCode',
         repo: 'https://github.com/Robinpig/LeetCode',
-        maxLevel: 2,
         loadSidebar: false,
+        alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+        },
+        maxLevel: 3,
         sidebarDisplayLevel: 3,
         loadNavbar: false,
         mergeNavbar: true,
         auto2top: true,
-        autoHeader: true,
+        autoHeader: false,
         search: {
             placeholder: 'search',
             noData: 'nothing',
