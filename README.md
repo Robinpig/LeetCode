@@ -1,3 +1,10 @@
 ## LeetCode
 
 [0001. Two Sum](/docs/leetcode/0001.%20Two%20Sum.md)
+
+
+## Dynamic Programming
+[0070. Climbing Stairs](/docs/leetcode/0070.%20Climbing%20Stairs.md)
+[0746. Min Cost Climbing Stairs](/docs/leetcode/0746.%20Min%20Cost%20Climbing%20Stairs.md)
+[0509. Fibonacci Number](/docs/leetcode/0509.%20Fibonacci%20Number.md)
+[1137. N-th Tribonacci Number](/docs/leetcode/1137.%20N-th%20Tribonacci%20Number.md)
