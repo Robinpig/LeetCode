@@ -4,6 +4,9 @@
 [0458. Poor Pigs](/docs/leetcode/0458.%20Poor%20Pigs.md)
 
 
+## Two Pointers
+[0832. Flipping an Image](/docs/leetcode/0832.%20Flipping%20an%20Image.md)
+
 ## Dynamic Programming
 [0070. Climbing Stairs](/docs/leetcode/0070.%20Climbing%20Stairs.md)
 [0746. Min Cost Climbing Stairs](/docs/leetcode/0746.%20Min%20Cost%20Climbing%20Stairs.md)
