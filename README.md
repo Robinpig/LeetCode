@@ -6,7 +6,7 @@
 
 ## Two Pointers
 [0832. Flipping an Image](/docs/leetcode/0832.%20Flipping%20an%20Image.md)
-
+[1446. Consecutive Characters](/docs/leetcode/1446.%20Consecutive%20Characters.md)
 ## Dynamic Programming
 [0070. Climbing Stairs](/docs/leetcode/0070.%20Climbing%20Stairs.md)
 [0746. Min Cost Climbing Stairs](/docs/leetcode/0746.%20Min%20Cost%20Climbing%20Stairs.md)
