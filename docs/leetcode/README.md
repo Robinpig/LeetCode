@@ -29,4 +29,5 @@
 - [0070. Climbing Stairs](/docs/leetcode/128/0070.%20Climbing%20Stairs.md)
 - [0746. Min Cost Climbing Stairs](/docs/leetcode/768/0746.%20Min%20Cost%20Climbing%20Stairs.md)
 - [0509. Fibonacci Number](/docs/leetcode/512/0509.%20Fibonacci%20Number.md)
+- [0913. Cat and Mouse](/docs/leetcode/1024/0913.%20Cat%20and%20Mouse.md)
 - [1137. N-th Tribonacci Number](/docs/leetcode/1152/1137.%20N-th%20Tribonacci%20Number.md)
