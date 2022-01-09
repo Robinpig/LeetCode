@@ -20,6 +20,7 @@
 
 - [0075. Sort Colors](/docs/leetcode/128/0075.%20Sort%20Colors.md)
 - [0088. Merge Sorted Array](/docs/leetcode/128/0088.%20Merge%20Sorted%20Array.md)
+- [0089. Gray Code](/docs/leetcode/128/0089.%20Gray%20Code.md)
 - [0832. Flipping an Image](/docs/leetcode/896/0832.%20Flipping%20an%20Image.md)
 - [1446. Consecutive Characters](/docs/leetcode/1536/1446.%20Consecutive%20Characters.md)
 
