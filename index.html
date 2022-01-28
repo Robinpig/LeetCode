@@ -20,6 +20,30 @@
     window.$docsify = {
         name: 'LeetCode',
         repo: 'https://github.com/Robinpig/LeetCode',
+        markdown: {
+            renderer: {
+                code: function(code, lang) {
+                    // if (lang === "sequence") {
+                    //     lang ="sequence-diagram"
+                    // }
+
+                    if (lang==="dot") {
+                        return (
+                            '<div class="viz">'+ Viz(code, "SVG")+'</div>'
+                        );
+                    }
+                    if (lang === "tex") {
+                        return (
+                            '<span class="tex">'+ katex.renderToString(code, {
+                                throwOnError: false
+                            })+'</span>'
+                        );
+                    }
+                    return this.origin.code.apply(this, arguments);
+                }
+            }
+        },
+
         loadSidebar: false,
         alias: {
             '/.*/_sidebar.md': '/_sidebar.md'
@@ -95,6 +119,13 @@
 
 <!--see https://vagnerdomingues.github.io/docsify-example-panels/#/-->
 <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+<script defer src="//cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+
+
+<script src="//cdn.jsdelivr.net/npm/viz.js@1.8.0/viz.js"></script>
 
 </body>
 </html>
