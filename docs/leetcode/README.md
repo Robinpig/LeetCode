@@ -23,6 +23,7 @@
 - [0089. Gray Code](/docs/leetcode/128/0089.%20Gray%20Code.md)
 - [0832. Flipping an Image](/docs/leetcode/896/0832.%20Flipping%20an%20Image.md)
 - [1446. Consecutive Characters](/docs/leetcode/1536/1446.%20Consecutive%20Characters.md)
+- [2000. Reverse Prefix of Word](/docs/leetcode/2048/2000.%20Reverse%20Prefix%20of%20Word.md)
 - [2047. Number of Valid Words in a Sentence](/docs/leetcode/2048/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence.md)
 
 
