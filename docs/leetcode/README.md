@@ -18,6 +18,11 @@
 
 ## Two Pointers
 
+- [0021.Merge Two Sorted Lists](/docs/leetcode/128/0021.Merge%20Two%20Sorted%20Lists.md)
+- [0023. Merge k Sorted Lists](/docs/leetcode/128/0023.%20Merge%20k%20Sorted%20Lists.md)
+- [0019. Remove Nth Node From End of List](/docs/leetcode/128/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+- [0876. Middle of the Linked List](/docs/leetcode/896/0876.%20Middle%20of%20the%20Linked%20List.md)
+  
 - [0075. Sort Colors](/docs/leetcode/128/0075.%20Sort%20Colors.md)
 - [0088. Merge Sorted Array](/docs/leetcode/128/0088.%20Merge%20Sorted%20Array.md)
 - [0089. Gray Code](/docs/leetcode/128/0089.%20Gray%20Code.md)
