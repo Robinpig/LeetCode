@@ -7,7 +7,9 @@
 - [0002.Add Two Numbers](/docs/leetcode/128/0002.%20Add%20Two%20Numbers.md)
 
 
+## math
 
+- [0258. Add Digits](/docs/leetcode/384/0258.%20Add%20Digits.md)
 
 
 ## Bit Operations
