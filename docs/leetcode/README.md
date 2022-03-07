@@ -58,3 +58,4 @@ Other
 ## Greedy
 
 - [1405. Longest Happy String](/docs/leetcode/1408/1405.%20Longest%20Happy%20String.md)
+- [2027. Minimum Moves to Convert String](/docs/leetcode/2048/2027.%20Minimum%20Moves%20to%20Convert%20String.md)
